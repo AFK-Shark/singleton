@@ -5,6 +5,6 @@ namespace ResourceSystem.Data
         Wood = 0,
         Stone = 1,
         Gold = 2,
-        Diamond = 3
+        Platinum = 3
     }
 }
